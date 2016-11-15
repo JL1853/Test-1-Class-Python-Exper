@@ -13,7 +13,7 @@ print(studentLastName+"\t"+studentFirstName)
 print() #spacer line
 #
 #
-sample1="experimental text"
+sample1="experimental texts"
 #
 print (sample1)
 print (sample1.upper())
