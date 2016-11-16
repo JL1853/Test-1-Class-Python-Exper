@@ -36,4 +36,4 @@ print (sample2[0:4])
 tip = r'c:\trash'
 print (tip)
 #
-
+print("allo")
